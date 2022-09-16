@@ -12,8 +12,8 @@ A compilation of R resources that helped me. Go to this [link](https://docs.gith
 ## Data Wrangling
 1. This four-part series on Data Wrangling by RStudio. Recommended even for more advanced R users: [(1) Introduction](https://www.youtube.com/watch?v=jOd65mR1zfw), [(2) Tidy Data and tidyr](https://www.youtube.com/watch?v=1ELALQlO-yM), [(3) Data Manipulation Tools: dplyr](https://www.youtube.com/watch?v=Zc_ufg4uW4U&t=393s) and [(4) Working with Two Datasets](https://www.youtube.com/watch?v=AuBgYDCg1Cg).
 
-## Advanced Data Wrangling
-1. How to use across to perform operations on multiple columns: [link](https://willhipson.netlify.app/post/dplyr_across/dplyr_across/).
+### Advanced Data Wrangling
+1. How to use **dplyr::across()** to perform operations on multiple columns: [link](https://willhipson.netlify.app/post/dplyr_across/dplyr_across/).
 
 ## Web Scraping
 1. A thorough and beautiful tutorial, by Andrew Heiss: [link](https://talks.andrewheiss.com/2022-seacen/presentation/#/title-slide)
