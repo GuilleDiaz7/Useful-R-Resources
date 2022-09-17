@@ -10,9 +10,14 @@ A compilation of R resources that helped me. Go to this [link](https://docs.gith
 3. Pipe operator %>%: **CTRL** + **SHIFT** + **m**
 
 ## Data Wrangling
+
+### Tidyverse
 1. This four-part series on Data Wrangling by RStudio. Recommended even for more advanced R users: [(1) Introduction](https://www.youtube.com/watch?v=jOd65mR1zfw), [(2) Tidy Data and tidyr](https://www.youtube.com/watch?v=1ELALQlO-yM), [(3) Data Manipulation Tools: dplyr](https://www.youtube.com/watch?v=Zc_ufg4uW4U&t=393s) and [(4) Working with Two Datasets](https://www.youtube.com/watch?v=AuBgYDCg1Cg).
 
-### Advanced Data Wrangling
+### Not tidyverse
+1. Function apply() and derivatives (to avoid loops): [link](https://www.guru99.com/r-apply-sapply-tapply.html)
+
+### Advanced Data Wrangling with Tidyverse
 1. How to use **dplyr::across()** to perform operations on multiple columns: [documentation](https://dplyr.tidyverse.org/articles/colwise.html#if-_at-_all) and [nice blogpost](https://willhipson.netlify.app/post/dplyr_across/dplyr_across/).
 
 ## Web Scraping
