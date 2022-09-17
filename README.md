@@ -19,6 +19,7 @@ A compilation of R resources that helped me. Go to this [link](https://docs.gith
 
 ### Advanced Data Wrangling with Tidyverse
 1. How to use **dplyr::across()** to perform operations on multiple columns: [documentation](https://dplyr.tidyverse.org/articles/colwise.html#if-_at-_all) and [nice blogpost](https://willhipson.netlify.app/post/dplyr_across/dplyr_across/).
+2. Difference between **across()** and **c_across()**: [link](https://community.rstudio.com/t/when-to-use-c-across-instead-of-across/74582).
 
 ## Web Scraping
 1. A thorough and beautiful tutorial, by Andrew Heiss: [link](https://talks.andrewheiss.com/2022-seacen/presentation/#/title-slide)
