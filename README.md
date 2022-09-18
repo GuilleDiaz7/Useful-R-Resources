@@ -2,7 +2,7 @@
 A compilation of R resources that helped me. Go to this [link](https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) if you want to learn how to style your own README.
 
 ## Setting up yourself
-1. A collection of short R tutorials on basic R features. I recommend the ones on installing R and RStudio and on how to use R Projects: [link](https://alexd106.github.io/intro2R/howto.html#rstudio_proj-vid)
+1. A collection of short tutorials on basic R features. I recommend the ones on installing R and RStudio and on how to use R Projects: [link](https://alexd106.github.io/intro2R/howto.html#rstudio_proj-vid)
 
 ### RStudio shorcuts
 1. Create a new script: **CRTL** + **SHIFT** + **n**
