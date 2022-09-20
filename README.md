@@ -28,3 +28,8 @@ A compilation of R resources that helped me. Go to this [link](https://docs.gith
 
 ## RMarkdown
 1. Make awesoma tables with [kable](https://cran.r-project.org/web/packages/kableExtra/vignettes/awesome_table_in_pdf.pdf).
+
+## Shiny Apps
+
+### Examples
+1. An incredible example with U.S. gas prices: [link](https://github.com/kcuilla/USgasprices).
