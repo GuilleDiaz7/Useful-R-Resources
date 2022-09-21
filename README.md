@@ -26,6 +26,7 @@ A compilation of R resources that helped me. Go to this [link](https://docs.gith
 
 #### Specific cases
 1. Fill empty cells with NA (with tidyverse): [Link](https://www.codingprof.com/3-ways-to-replace-blanks-with-nas-in-r-examples/).
+2. Add empty columns to a dataframe with **add_column()**: [link](https://www.marsja.se/how-to-add-an-empty-column-to-dataframe-in-r-with-tibble/).
 
 ## Web Scraping
 1. A thorough and beautiful tutorial, by Andrew Heiss: [link](https://talks.andrewheiss.com/2022-seacen/presentation/#/title-slide)
