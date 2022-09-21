@@ -28,6 +28,11 @@ A compilation of R resources that helped me. Go to this [link](https://docs.gith
 
 ## Statistics
 
+### Regression
+
+#### Linear Regression
+1. Though not in R, it is a wonderful explanation of a fundamental method: [link](https://mlu-explain.github.io/linear-regression/).
+
 ### Time Series Analysis
 1. The R code of Hands on Time Series Analysis with T, chapter by chapter: [link](https://github.com/RamiKrispin/Hands-On-Time-Series-Analysis-with-R).
 
