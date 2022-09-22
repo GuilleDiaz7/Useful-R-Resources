@@ -21,8 +21,9 @@ A compilation of R resources that helped me. Go to this [link](https://docs.gith
 ### Advanced Data Wrangling with Tidyverse
 
 #### Common cases
-1. How to use **dplyr::across()** to perform operations on multiple columns: [documentation](https://dplyr.tidyverse.org/articles/colwise.html#if-_at-_all) and [nice blogpost](https://willhipson.netlify.app/post/dplyr_across/dplyr_across/).
-2. Difference between **across()** and **c_across()**: [link](https://community.rstudio.com/t/when-to-use-c-across-instead-of-across/74582).
+1. How to use **dplyr::across** to perform operations on multiple columns: [documentation](https://dplyr.tidyverse.org/articles/colwise.html#if-_at-_all) and [nice blogpost](https://willhipson.netlify.app/post/dplyr_across/dplyr_across/).
+2. Difference between **across** and **c_across**: [link](https://community.rstudio.com/t/when-to-use-c-across-instead-of-across/74582).
+3. Create new variables with **case_when** (and **mutate**): [link](https://www.statology.org/conditional-mutating-r/) and a nice [advice](https://stackoverflow.com/questions/39257820/keep-value-if-not-in-case-when-statement). 
 
 #### Specific cases
 1. Fill empty cells with NA (with tidyverse): [Link](https://www.codingprof.com/3-ways-to-replace-blanks-with-nas-in-r-examples/).
