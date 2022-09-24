@@ -33,7 +33,7 @@ A compilation of R resources that helped me. Go to this [link](https://docs.gith
 
 ### Basic
 
-### Advances
+### Advanced
 1. Multi panel plots with **facet_wrap** and **facet_grid**: [link](http://zevross.com/blog/2019/04/02/easy-multi-panel-plots-in-r-using-facet_wrap-and-facet_grid-from-ggplot2/).
 
 ## Web Scraping
