@@ -8,6 +8,7 @@ A compilation of R resources that helped me. Go to this [link](https://docs.gith
 1. Create a new script: **CRTL** + **SHIFT** + **n**
 2. Save a script: **CTRL** + **s**
 3. Pipe operator %>%: **CTRL** + **SHIFT** + **m**
+4. This operator ~: **ALT GR** + **4** + **SPACE**.
 
 ## Data Wrangling
 
