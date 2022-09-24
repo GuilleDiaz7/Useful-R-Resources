@@ -12,7 +12,7 @@ The following are books or courses that cover almost everything: [Albert Rapp](h
 4. This operator ~: **ALT GR** + **4** + **SPACE**.
 
 ## Git and GitHub
-1. A wonderful book to show how to use Git and GitHub to R users: [link](https://happygitwithr.com/index.html).
+1. A wonderful [book](https://happygitwithr.com/index.html) to show how to use Git and GitHub to R users. I followed the first chapters when I started to work with Git.
 2. A nice interactive website to learn Git branching: [link](https://learngitbranching.js.org/?locale=es_ES).
 
 ## Data Wrangling
