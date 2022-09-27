@@ -22,7 +22,8 @@ The following are books or courses that cover almost everything: [Albert Rapp](h
 2. Some use cases and tricks on **dplyr::filter**: [1](https://sebastiansauer.github.io/dplyr_filter/) and [2](https://blog.exploratory.io/filter-data-with-dplyr-76cf5f1a258e).
 
 ### Complementary to tidyverse
-1. Function apply() and derivatives (to avoid loops): [link](https://www.guru99.com/r-apply-sapply-tapply.html)
+1. Function **apply** and derivatives (to avoid loops): [link](https://www.guru99.com/r-apply-sapply-tapply.html)
+2. In janitor, the function **tabyl**.
 
 ### Advanced Data Wrangling with Tidyverse
 
