@@ -51,20 +51,6 @@ The following are books or courses that cover almost everything: [Albert Rapp](h
 1. A thorough and beautiful tutorial, by Andrew Heiss: [link](https://talks.andrewheiss.com/2022-seacen/presentation/#/title-slide)
 2. Web scraping with GitHub Actions video tutorial: [link](https://www.youtube.com/watch?v=N3NrWMxeeJQ)
 
-## Statistics
-
-### Regression
-
-#### Linear Regression
-1. Though not in R, it is a wonderful explanation of a fundamental method: [link](https://mlu-explain.github.io/linear-regression/).
-
-#### Poisson Regression
-2. Poisson regression (not tidymodels): [link](https://www.dataquest.io/blog/tutorial-poisson-regression-in-r/).
-3. Zero inflated poisson regression: [link](https://juliasilge.com/blog/rstats-vignettes/).
-
-### Time Series Analysis
-1. The R code of Hands on Time Series Analysis with T, chapter by chapter: [link](https://github.com/RamiKrispin/Hands-On-Time-Series-Analysis-with-R).
-
 ## RMarkdown & Quarto
 
 ### RMarkdown
