@@ -45,6 +45,7 @@ The following are books or courses that cover almost everything: [Albert Rapp](h
 
 ### Advanced
 1. Multi panel plots with **facet_wrap** and **facet_grid**: [link](http://zevross.com/blog/2019/04/02/easy-multi-panel-plots-in-r-using-facet_wrap-and-facet_grid-from-ggplot2/).
+2. A bunch of graphics with some data wrangling tricks: [link](https://www.brodrigues.co/blog/2020-04-12-basic_ggplot2/).
 
 ## Web Scraping
 1. A thorough and beautiful tutorial, by Andrew Heiss: [link](https://talks.andrewheiss.com/2022-seacen/presentation/#/title-slide)
