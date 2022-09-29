@@ -65,8 +65,13 @@ The following are books or courses that cover almost everything: [Albert Rapp](h
 ### Time Series Analysis
 1. The R code of Hands on Time Series Analysis with T, chapter by chapter: [link](https://github.com/RamiKrispin/Hands-On-Time-Series-Analysis-with-R).
 
-## RMarkdown
+## RMarkdown & Quarto
+
+### RMarkdown
 1. Make awesome tables with [kable](https://cran.r-project.org/web/packages/kableExtra/vignettes/awesome_table_in_pdf.pdf).
+
+### Quarto
+1. Some slides by a prominent RStudio worker: [link](https://thomasmock.quarto.pub/reports-presentations/#/title-slide).
 
 ## Shiny Apps
 
