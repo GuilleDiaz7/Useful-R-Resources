@@ -68,3 +68,6 @@ The following are books or courses that cover almost everything: [Albert Rapp](h
 
 ### Examples
 1. An incredible example with U.S. gas prices: [link](https://github.com/kcuilla/USgasprices).
+
+## Other interesting videos
+1. The creator of tidyverse showing an example of a data science project: [video](https://www.youtube.com/watch?v=go5Au01Jrvs).
