@@ -10,5 +10,7 @@ df <- read_csv("https://raw.githubusercontent.com/GuilleDiaz7/Kaggle-Competition
 #### Perform a double count to know how many times each value appears in a certain variable.
 
 ```R
-
+df %>% 
+  count(Cabin) %>% 
+  count(n)
 ````
