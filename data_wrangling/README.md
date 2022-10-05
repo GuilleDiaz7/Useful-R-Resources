@@ -7,6 +7,12 @@ library(readr)
 df <- read_csv("https://raw.githubusercontent.com/GuilleDiaz7/Kaggle-Competitions/main/titanic/data/train.csv")
 ```
 
+#### The additional options in count: sort, wt and name
+
+```R
+
+```
+
 #### Perform a double count to know how many times each value appears in a certain variable.
 
 ```R
