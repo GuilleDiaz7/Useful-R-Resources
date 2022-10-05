@@ -54,6 +54,7 @@ The following are books or courses that cover almost everything: (1) [Advanced R
 ## RMarkdown & Quarto
 
 ### RMarkdown
+The starting point to RMarkdown: [book](https://bookdown.org/yihui/rmarkdown/).
 
 #### Parametrized reports
 1. A nice video tutorial focused on the **params** option: [video](https://www.youtube.com/watch?v=oFKb8WYDLB0&t=613s).
