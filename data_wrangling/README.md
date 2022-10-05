@@ -7,6 +7,13 @@ library(readr)
 df <- read_csv("https://raw.githubusercontent.com/GuilleDiaz7/Kaggle-Competitions/main/titanic/data/train.csv")
 ```
 
+#### Count NAs across every column
+
+```R
+df %>% 
+  summarise(across(everything(), ~sum(is.na(.))))
+```
+
 #### The additional options in count: sort, wt and name
 
 ```R
