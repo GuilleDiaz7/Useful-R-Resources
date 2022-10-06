@@ -12,6 +12,11 @@ df <- read_csv("https://raw.githubusercontent.com/GuilleDiaz7/Kaggle-Competition
 ```R
 df %>% 
   summarise(across(everything(), ~sum(is.na(.))))
+  
+# Or, with the purrr package
+
+df %>% 
+  purrr:map_df(~sum(is.na(.)))
 ```
 
 #### The additional options in count: sort, wt and name
