@@ -32,3 +32,12 @@ df %>%
   count(Cabin) %>% 
   count(n)
 ````
+
+#### Count and percentage
+
+```R
+df %>%
+  group_by(**variable_name**) %>% 
+  summarise(n = n()) %>% 
+  mutate(Perc = n / sum(n)) %>% 
+```
