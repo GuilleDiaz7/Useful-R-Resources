@@ -49,6 +49,10 @@ The following are books or courses that cover almost everything: (1) [Advanced R
 1. Multi panel plots with **facet_wrap** and **facet_grid**: [link](http://zevross.com/blog/2019/04/02/easy-multi-panel-plots-in-r-using-facet_wrap-and-facet_grid-from-ggplot2/).
 2. A bunch of graphics with some data wrangling tricks: [link](https://www.brodrigues.co/blog/2020-04-12-basic_ggplot2/).
 
+### Tables
+1. Various links from RStudio Youtube channel: [1](https://www.youtube.com/watch?v=-c_PUee8Cu0), [2](youtube.com/watch?v=sRxdutTgyDE), [3](https://www.youtube.com/watch?v=tIB_N0nUfNs).
+2. New features of the **gt** package: [link](https://www.youtube.com/watch?v=F5TV9uWCJps).
+
 ## Web Scraping
 1. A thorough and beautiful tutorial, by Andrew Heiss: [link](https://talks.andrewheiss.com/2022-seacen/presentation/#/title-slide)
 2. Web scraping with GitHub Actions video tutorial: [link](https://www.youtube.com/watch?v=N3NrWMxeeJQ)
