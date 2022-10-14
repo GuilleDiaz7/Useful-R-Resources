@@ -68,6 +68,7 @@ The starting point to RMarkdown: [book](https://bookdown.org/yihui/rmarkdown/).
 #### Parametrized reports
 1. A nice video tutorial focused on the **params** option: [video](https://www.youtube.com/watch?v=oFKb8WYDLB0&t=613s).
 2. This [video](https://www.youtube.com/watch?v=DkQEpqySylc) covers a lot more options to make parametrized reports.
+3. Financial reports [example](https://www.youtube.com/watch?v=JsaGSrM8aZ0).
 
 #### Styling
 1. Make awesome tables with [kable](https://cran.r-project.org/web/packages/kableExtra/vignettes/awesome_table_in_pdf.pdf).
