@@ -71,6 +71,7 @@ The starting point to RMarkdown: [book](https://bookdown.org/yihui/rmarkdown/).
 
 #### Styling
 1. Make awesome tables with [kable](https://cran.r-project.org/web/packages/kableExtra/vignettes/awesome_table_in_pdf.pdf).
+2. A [video tutorial](https://www.youtube.com/watch?v=z-uFVfsaVzc) which is also useful for theming Shiny apps.
 
 ### Quarto
 1. Some slides by a prominent RStudio worker: [link](https://thomasmock.quarto.pub/reports-presentations/#/title-slide).
