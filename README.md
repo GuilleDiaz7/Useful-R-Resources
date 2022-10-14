@@ -53,7 +53,7 @@ The following are books or courses that cover almost everything: (1) [Advanced R
 
 #### gt package
 
-1. Various links from RStudio Youtube channel with live coding battle using **gt** package: [1](https://www.youtube.com/watch?v=-c_PUee8Cu0), [2](youtube.com/watch?v=sRxdutTgyDE), [3](https://www.youtube.com/watch?v=tIB_N0nUfNs).
+1. Various links from RStudio Youtube channel with live coding battles: [1](https://www.youtube.com/watch?v=-c_PUee8Cu0), [2](youtube.com/watch?v=sRxdutTgyDE), [3](https://www.youtube.com/watch?v=tIB_N0nUfNs).
 2. New features of the **gt** package: [link](https://www.youtube.com/watch?v=F5TV9uWCJps).
 
 ## Web Scraping
