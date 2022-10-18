@@ -49,6 +49,9 @@ The following are books or courses that cover almost everything: (1) [Advanced R
 1. Multi panel plots with **facet_wrap** and **facet_grid**: [link](http://zevross.com/blog/2019/04/02/easy-multi-panel-plots-in-r-using-facet_wrap-and-facet_grid-from-ggplot2/).
 2. A bunch of graphics with some data wrangling tricks: [link](https://www.brodrigues.co/blog/2020-04-12-basic_ggplot2/).
 
+### Maps
+1. A nice [video](https://www.youtube.com/watch?v=D5OBWBM5kwk) with USA voting data.
+
 ### Tables
 
 #### gt package
