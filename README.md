@@ -67,8 +67,9 @@ The following are books or courses that cover almost everything: (1) [Advanced R
 2. Rich Iannone [introduces](https://www.youtube.com/watch?v=z0UGmMOxl-c) the package and [presents](https://www.youtube.com/watch?v=F5TV9uWCJps) new features (more features [here](https://www.youtube.com/watch?v=QbcAX3ayyzk)).
 
 ## Web Scraping
-1. A thorough and beautiful tutorial, by Andrew Heiss: [link](https://talks.andrewheiss.com/2022-seacen/presentation/#/title-slide)
-2. Web scraping with GitHub Actions video tutorial: [link](https://www.youtube.com/watch?v=N3NrWMxeeJQ)
+1. A thorough and beautiful tutorial, by Andrew Heiss: [link](https://talks.andrewheiss.com/2022-seacen/presentation/#/title-slide).
+2. Web scraping with GitHub Actions video tutorial: [link](https://www.youtube.com/watch?v=N3NrWMxeeJQ).
+3. There are several examples in this very GitHub.
 
 ## RMarkdown & Quarto
 
