@@ -12,9 +12,14 @@ The following are books or courses that cover almost everything: (1) [Advanced R
 4. This operator ~: **ALT GR** + **4** + **SPACE**.
 
 ## Git and GitHub
+
+### Git and GitHub
 1. A wonderful [book](https://happygitwithr.com/index.html) to show how to use Git and GitHub to R users. I followed the first chapters when I started to work with Git.
 2. A video tutorial to get started with Git and GitHub in RStudio: [link](https://www.youtube.com/watch?v=jN6tvgt3GK8).
 3. A nice interactive website to learn Git branching: [link](https://learngitbranching.js.org/?locale=es_ES).
+
+### GitHub Actions
+1. A [bookdown](https://orchid00.github.io/actions_sandbox/) on GitHub Actions for R users.
 
 ## Data Wrangling
 
