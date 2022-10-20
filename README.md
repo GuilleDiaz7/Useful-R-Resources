@@ -20,6 +20,8 @@ The following are books or courses that cover almost everything: (1) [Advanced R
 
 ### GitHub Actions
 1. A [bookdown](https://orchid00.github.io/actions_sandbox/) on GitHub Actions for R users.
+2. The latest [update](https://www.tidyverse.org/blog/2022/06/actions-2-0-0/) on GitHub Actions for R developers.
+3. A comprehensive [list](https://github.com/r-lib/actions) of every action.
 
 ## Data Wrangling
 
