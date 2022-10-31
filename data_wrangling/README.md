@@ -1,6 +1,9 @@
 # Some tricks for data wrangling
 
-I will be using the [Titanic](https://www.kaggle.com/competitions/titanic/data) dataset. You can download it with the following code. We will also need to load **readr** to import the data and **tidyverse** to perform most of this tricks. Some of the specific packages that we will be using are [dplyr](), [tidyr](), [widyr](https://github.com/juliasilge/widyr) **TO BE CONTINUED**
+I will be using the [Titanic](https://www.kaggle.com/competitions/titanic/data) dataset. You can download it with the following code. We will also need to load **readr** to import the data and **tidyverse** to perform most of this tricks. Some of the specific packages that we will be using are [dplyr](), [tidyr](), [widyr](https://github.com/juliasilge/widyr).
+
+**CONTENT ALERT**
+If there is a function, verb, adverb that I am using and you don't know anything about, take some time to learn the basics of it. It will save time for you in the future.
 
 ```R
 library(readr)
