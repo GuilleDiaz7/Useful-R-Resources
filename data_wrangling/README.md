@@ -7,6 +7,12 @@ library(readr)
 df <- read_csv("https://raw.githubusercontent.com/GuilleDiaz7/Kaggle-Competitions/main/titanic/data/train.csv")
 ```
 
+#### Replace empty cells with NA
+```R
+df %>%
+  mutate(across(everything(), na_if, ""))
+```
+
 #### Count NAs across every column
 
 ```R
