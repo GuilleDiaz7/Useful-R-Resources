@@ -1,6 +1,6 @@
 # Useful R Resources
 A compilation of R resources that helped me. Go to this [link](https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) if you want to learn how to style your own README.
-The following are books or courses that cover almost everything: (1) [Advanced R](https://adv-r.hadley.nz/), (2) [Albert Rapp](https://yards.albert-rapp.de/index.html) and (3) a fantastic [syllabus](https://eda.seas.gwu.edu/2022-Fall/schedule.html) by John Paul Helveston.
+The following are books or courses that cover almost everything: (1) [Advanced R](https://adv-r.hadley.nz/), (2) [Albert Rapp](https://yards.albert-rapp.de/index.html) data science book and (3) a fantastic [syllabus](https://eda.seas.gwu.edu/2022-Fall/schedule.html) by John Paul Helveston.
 
 ## Setting up yourself
 1. A collection of short tutorials on basic R features. I recommend the ones on installing R and RStudio and on how to use R Projects: [link](https://alexd106.github.io/intro2R/howto.html#rstudio_proj-vid)
