@@ -58,6 +58,7 @@ The following are books or courses that cover almost everything: (1) [Advanced R
 
 ### Maps
 1. A nice [video](https://www.youtube.com/watch?v=D5OBWBM5kwk) with USA voting data.
+2. A thorough [tutorial](https://www.modeldifferently.com/2020/10/como-dibujar-mapas-en-r/) to create maps of Spain.
 
 ### Tables
 
