@@ -36,3 +36,8 @@ Depending on the number of brackets we can use *str_remove* or *str_remove_all*.
 ```{r}
 str_remove(list, pattern = "\\(([^)]+)\\)")
 ```
+
+#### Extract/Remove text in brackets (not included)
+```{r}
+str_remove(list, pattern = "(?<=\\().+?(?=\\))")
+```
