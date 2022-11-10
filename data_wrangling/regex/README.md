@@ -29,4 +29,10 @@ and you want to remove the numbers and keep the names.
 ```{r}
 str_remove(list, pattern = "\\d*.\\s")
 ```
-#### Extrat/Remove text in brackets
+
+#### Extract/Remove text in brackets (included)
+Depending on the number of brackets we can use *str_remove* or *str_remove_all*.
+
+```{r}
+str_remove(list, pattern = "\\(([^)]+)\\)")
+```
