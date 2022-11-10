@@ -11,6 +11,7 @@ It matches any character but newlines or null.
 ### Match-one-or-more operator: +
 Like the . operator but matching at least one character.
 
+### Specific cases
 #### Extract a rank
 Imagine you have a list like this:
 1. Leo Messi.
