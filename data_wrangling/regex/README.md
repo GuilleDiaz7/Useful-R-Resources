@@ -16,7 +16,9 @@ Imagine you have a list like this:
 1. Leo Messi.
 2. Cristiano Ronaldo
 3. Karim Benzema
+4. 
 ...
+
 12. Kevin de Bruyne
 and you want to remove the numbers and keep the names.
 
